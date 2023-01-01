@@ -1,0 +1,35 @@
+.body {
+
+    background-color: lightgreen;
+    
+}
+
+#title {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    text-align: center;
+    
+}
+
+#title2 {
+
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    color: red;
+    text-align: center;
+
+}
+
+.pizza {
+
+    margin-left: 340px;
+    outline-style: solid;
+    outline-width: 5px;
+    outline-color: black;
+    
+}
+
+.list {
+
+    margin-left: 315px;
+}
