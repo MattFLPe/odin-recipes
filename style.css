@@ -1,21 +1,21 @@
 .body {
 
-    background-color: lightgreen;
+    background-color: rgb(228, 222, 196);
     
 }
 
 #title {
 
-    font-family: Arial, Helvetica, sans-serif;
-    color: green;
+    font-family: Courier, Helvetica, sans-serif;
+    color: rgb(78, 56, 30);
     text-align: center;
     
 }
 
 #title2 {
 
-    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
-    color: red;
+    font-family: Courier, 'Geneva', Tahoma, sans-serif;
+    color: rgb(83, 83, 83);
     text-align: center;
 
 }
@@ -23,9 +23,9 @@
 .pizza {
 
     margin-left: 340px;
-    outline-style: solid;
-    outline-width: 5px;
-    outline-color: black;
+    outline-style: double;
+    outline-width: 10px;
+    outline-color: rgb(78, 56, 30);
     
 }
 
