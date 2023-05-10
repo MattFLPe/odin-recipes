@@ -1,0 +1,26 @@
+.body {
+
+    background-color: rgb(228, 222, 196);
+
+}
+
+.title {
+
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(78, 56, 30);
+    text-align: center;
+    margin: 20px;
+}
+
+.h3 {
+
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgb(83, 83, 83);
+
+}
+
+.ingredients {
+
+    margin-left: 400px;
+}
